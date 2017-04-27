@@ -1,0 +1,51 @@
+/*头部开始*/
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+.zong{width: 1000px;background: p-urple;margin: 0 auto;}
+.tou{height: 100px;}
+.tou img{position: absolute;top:20px; }
+.tuoa {padding:30px 0 0 160px;font-size: 12px;color: gray;line-height: 25px;}
+.tuoa a{font-size: 12px;color: gray;}
+.tuoa .mn{color: blue;}
+.tuob{margin-left: 310px;}
+.tuoc a{font-size: 12px;color: gray;}
+.tuoc a:hover{color: red;}
+.tuoc{font-size: 12px;color: gray;float: right;margin: -55px 0 0 0;line-height: 25px;}
+.tuod {margin-left: 80px;}
+.tuod a{padding:0 10px;}
+.tuoc .tua{width: 160px;height: 25px;padding-left:10px;outline: none}
+.tuoc .tub{border: none;height: 29px;width: 50px;outline: none;color: gray;margin-right: 10px;}
+.tuoc .tub:hover{background: blue;}
+.tuoa a:hover{color: red;}
+/*头部结束*／
+
+／*导航条*/
+.daohang{height: 40px;background: #336699;line-height: 40px; }
+.daohang a{font-size: 16px;color: white;padding:12px 10px;}
+.daohang a:hover{background: #b6c9dc;}
+/*导航条结束*/
+
+/*图文列表*/
+.zhongbu{margin-top:20px;}
+.zuo{width: 600px;height: 400px;background: red;float: left;}
+.you{width: 400px;height: 400px;background: purple;float: right;}
+.you1{width: 400px;height: 80px;background: black;}
+.you2{width: 400px;height: 80px;background: maroon;}
+.you3{width: 400px;height: 80px;background: fuchsia;}
+.you4{width: 400px;height: 80px;background: navy;}
+.you4{width: 400px;height: 80px;background: lime;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

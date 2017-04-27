@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+.zong{width: 1000px;height: 600px;background: purple;margin: 0 auto;}
+.tou img{position: absolute;top:20px; }
+.tuoa {padding:25px 0 0 160px;font-size: 12px;color: gray;line-height: 25px;}
+.tuoa a{font-size: 12px;color: gray;}
+.tuoa .mn{color: blue;}
+.tuob{margin-left: 330px;}
+.tuoc a{font-size: 12px;color: gray;}
+
+.tuoc{font-size: 12px;color: gray;float: right;margin: -50px 0 0 0;line-height: 25px;}
+.tuoc a{right: -60px;
+	}
+
+
+.tuoc .tua{width: 160px;height: 25px;padding-left:10px;outline: none}
+.tuoc .tub{border: none;height: 29px;width: 50px;background: blue;outline: none;color: gray;margin-right: 10px;}
